@@ -1638,3 +1638,162 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-15 17:33:28 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:18:32 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=CO3LIXJPH1LYAC5OOTLKLJE334NVDIYG24KUFOVEQ22WVYDP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 13ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=YVESI0D2OJK34FAHF4A3DSM4BB14T4OTXPC503HPIYBH5SPI" for 127.0.0.1 at 2018-04-09 13:18:42 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"YVESI0D2OJK34FAHF4A3DSM4BB14T4OTXPC503HPIYBH5SPI"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 628ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:18:43 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=CO3LIXJPH1LYAC5OOTLKLJE334NVDIYG24KUFOVEQ22WVYDP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=15Z5A22Q3UTMSEH3QCITYMMBH1RRYBPDPJKXR0H3YBGGTJGV" for 127.0.0.1 at 2018-04-09 13:18:46 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"15Z5A22Q3UTMSEH3QCITYMMBH1RRYBPDPJKXR0H3YBGGTJGV"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 205ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:18:46 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=CO3LIXJPH1LYAC5OOTLKLJE334NVDIYG24KUFOVEQ22WVYDP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=0OZMEFNDUFUAW2KD3FWMHMX3Y14VMZD2K2Z45CFBKAZ5JNTB" for 127.0.0.1 at 2018-04-09 13:18:54 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"0OZMEFNDUFUAW2KD3FWMHMX3Y14VMZD2K2Z45CFBKAZ5JNTB"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 517ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:18:54 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=CO3LIXJPH1LYAC5OOTLKLJE334NVDIYG24KUFOVEQ22WVYDP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=DO2VWM5EYZYT2HWKZEC53GFWOWIVKODX4UUSKP4GFURQ0WVS" for 127.0.0.1 at 2018-04-09 13:19:04 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"DO2VWM5EYZYT2HWKZEC53GFWOWIVKODX4UUSKP4GFURQ0WVS"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 204ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:19:04 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=CO3LIXJPH1LYAC5OOTLKLJE334NVDIYG24KUFOVEQ22WVYDP&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:27:23 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=PRABCFXM5KG3PTVFGXW4BRUFWCAGDNM2MRII2SZI43XHYGUV&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=BJJNSSNT3AEDE0IG0IKSQCQVERQPGWRRWGSHY5P4FLOBUEN4" for 127.0.0.1 at 2018-04-09 13:27:24 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"BJJNSSNT3AEDE0IG0IKSQCQVERQPGWRRWGSHY5P4FLOBUEN4"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 249ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:27:24 +0100
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (15.8ms)
+Completed 200 OK in 621ms (Views: 619.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:27:25 +0100
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 127.0.0.1 at 2018-04-09 13:27:25 +0100
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 127.0.0.1 at 2018-04-09 13:27:25 +0100
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2018-04-09 13:27:25 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:27:38 +0100
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=PRABCFXM5KG3PTVFGXW4BRUFWCAGDNM2MRII2SZI43XHYGUV&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=JZPUPTNNFHSYPVXSMKNJ2EJNBMTPEOLSSNTIPUMYTM1GHGFZ" for 127.0.0.1 at 2018-04-09 13:27:39 +0100
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"JZPUPTNNFHSYPVXSMKNJ2EJNBMTPEOLSSNTIPUMYTM1GHGFZ"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 206ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:27:41 +0100
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 25.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for 127.0.0.1 at 2018-04-09 13:27:49 +0100
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"s8Fq8DDKQSnGGA6xkQ3mUO18m4TFhCBz+9RuiHxlDCyvJrifXTpiGqKoGP+r4cOoasrLopI354sbQWRJZt3vaQ==", "zipcode"=>"10001", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 439ms (Views: 37.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:54:42 +0100
+
+SyntaxError (/home/theboymo/WORK/WEBDEV/COURSE-WORK/LEARN-CO/10-rails-adv/labs/21-30/web-service-objects-readme-cb-000/app/controllers/searches_controller.rb:9: syntax error, unexpected keyword_end, expecting ')'
+/home/theboymo/WORK/WEBDEV/COURSE-WORK/LEARN-CO/10-rails-adv/labs/21-30/web-service-objects-readme-cb-000/app/controllers/searches_controller.rb:27: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/searches_controller.rb:9: syntax error, unexpected keyword_end, expecting ')'
+  app/controllers/searches_controller.rb:27: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (8.1ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (29.1ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (96.2ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/theboymo/.rvm/gems/ruby-2.3.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (152.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-09 13:58:44 +0100
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 177ms (Views: 176.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 127.0.0.1 at 2018-04-09 13:58:51 +0100
+Processing by SearchesController#friends as HTML
+  Rendered searches/friends.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 245ms (Views: 25.4ms | ActiveRecord: 0.0ms)
